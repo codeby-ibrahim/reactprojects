@@ -10,8 +10,9 @@ const Card = () => {
       borderRadius: '8px',
       display: 'flex',
     }}>
-          
+      hello 
     </div>
+    
   )
 }
 

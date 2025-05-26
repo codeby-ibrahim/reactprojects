@@ -7,7 +7,7 @@ import Card from './commpnet/Card'
 
 function App( ) {
     const message = "Hello, World!";
-    const Card = [
+    const CardData = [
       {
       id: 1,
       title: "Card Title",
@@ -32,6 +32,8 @@ function App( ) {
   ]
   return (
     <>
+    <h1>Hello</h1>
+     <p>hello </p>
       <p>{message}</p>
       <Card/>   
     </>
