@@ -29,12 +29,12 @@ function App( ) {
             Description: "This is a description of the card."
             }
 
-  ]
+  ] 
   return (
     <>
-    <h1>Hello</h1>
-     <p>hello </p>
-      <p>{message}</p>
+        <h1>Hello </h1>
+        <p>This is my softwer</p>
+        <button>more</button>
       <Card/>   
     </>
   )
