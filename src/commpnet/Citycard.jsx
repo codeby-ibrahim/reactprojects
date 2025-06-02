@@ -1,4 +1,4 @@
-import Card from './Card';
+import CityCard from './Card';
 
 function CustomCard({ title, description }) {
   return (

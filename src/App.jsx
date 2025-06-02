@@ -35,7 +35,7 @@ function App( ) {
         <h1>Hello </h1>
         <p>This is my softwer</p>
         <button>more</button>
-      <Card/>   
+      <Card title={"peshawer"} description={"The city of flower"} />  
     </>
   )
 }
